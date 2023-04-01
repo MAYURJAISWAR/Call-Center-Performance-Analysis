@@ -10,3 +10,5 @@ Outcome: Found out that 34% of customers have given negative sentiments on call 
 
 Screenshot of the dashboard:
 
+![call_center_ss](https://user-images.githubusercontent.com/54434692/229298250-08c09d43-452e-4b4b-bcf5-f6fffba69cd2.PNG)
+
